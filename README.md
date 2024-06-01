@@ -10,4 +10,5 @@ running in my local server
 
 
 ![Screenshot 2024-06-01 121228](https://github.com/DarshanAnand007/ENG21AM0028/assets/93935699/5e43c7c3-7d98-489e-bb5f-f1ae9d201750)
-![Screenshot 2024-06-01 122629](https://github.com/DarshanAnand007/ENG21AM0028/assets/93935699/533b7c55-840f-4a5d-ba47-a3e06ba693b1)
+
+![Screenshot 2024-06-01 121210](https://github.com/DarshanAnand007/ENG21AM0028/assets/93935699/aba51300-440a-45d5-8289-64d18c9190fa)
